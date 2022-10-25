@@ -6,8 +6,6 @@ Use OOP and inheritance to design subway and bus stations.
 """
 DO NOT EDIT THE MetroStation CLASS
 """
-from sqlalchemy import false, true
-
 
 class MetroStation:
     """The MetroStation class is a base/parent class for all types of metro stations
